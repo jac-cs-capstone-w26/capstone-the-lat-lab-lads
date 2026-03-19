@@ -6,13 +6,12 @@ This is an informal contract to ensure that all team members have a common under
 
 *What will the name of your team be?*
 
-- Team name: 
+- Team name: The LAT Lab Lads
 
 ## Team Members
 
-- Name of member A:
-- Name of member B:
-- Name of member C:
+- Name of member A: Aristedes Patelis
+- Name of member B: Tristan Raymond
 
 ## Strength & Weaknesses
 
@@ -20,7 +19,6 @@ This is an informal contract to ensure that all team members have a common under
 
 - A:
 - B:
-- C:
 
 ## Definition of “good enough” for this project
 
@@ -34,7 +32,6 @@ This is an informal contract to ensure that all team members have a common under
 
 - A:
 - B:
-- C:
 
 ## Frequency of communication
 
@@ -56,7 +53,6 @@ This is an informal contract to ensure that all team members have a common under
 
 - A:
 - B:
-- C:
 
 ## In case of conflict
 
