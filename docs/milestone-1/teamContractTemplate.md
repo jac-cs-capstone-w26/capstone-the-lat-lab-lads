@@ -4,58 +4,48 @@ This is an informal contract to ensure that all team members have a common under
 
 ## Team Name
 
-*What will the name of your team be?*
-
-- Team name: The LAT Lab Lads
+- **Team name:** The Lat Lab Lads
 
 ## Team Members
 
-- Name of member A: Aristedes Patelis
-- Name of member B: Tristan Raymond
+- **Name of member A:** Aristedes Patelis
+- **Name of member B:** Tristan Raymond
 
 ## Strength & Weaknesses
 
-*Within the context of this project, what are the strengths and weaknesses that each member brings to the team?*
+- **Aristedes:**
+  - **Strengths:** Conceptual and graphical design, conceptual model design, code review/clean-up, scheduling.
+  - **Weaknesses:** Debugging, time management, working consistently.
 
-- A:
-- B:
+
+- **Tristan:**
+  - **Strengths:** Decent documentation, figuring out logic.
+  - **Weaknesses:** Time management, designing, focus.
 
 ## Definition of “good enough” for this project
 
-*What would the team collectively consider “good enough” of an achievement for the project?*
-
-*(One response for the whole team)*
+At the very least, reaching the minimum requirements for this project is our first and top priority above all else. Having a functional project that does as expected and intended is what we intend to focus on the most as- taking into account our similar weaknesses in time management- we should not expect ourselves to be able to go above and beyond in our work. If however there remains the extra time and energy, then we will attempt to utilize that to further improve or add onto the project.
 
 ## Division of work
 
-*How will each member contribute to the project?*
 
-- A:
-- B:
+- **Aristedes:**  Sub-system 1, concept design, system planning (basic flow of logic and feature functionalities), structural implementation (skeletons of functions and file system organization), code review/clean-up.
+
+- **Tristan:** Documentation, code implementation.
 
 ## Frequency of communication
 
-*How often will the team be in touch and what tools will be used to communicate?*
-
-*(One response per team)*
+We intend to communicate amongst ourselves at least once per day, mainly in order to see where either of us stand on the progress of our active tasks and, if need be, plan future calls for more in-depth discussions and working periods.
 
 ## Response delays
 
-*What is a reasonable delay to reply to messages? Is it the same for weekdays and weekends?*
-
-*(One response per team)*
+Given that our respective school schedules have us almost always seeing each other throughout the day, we’ll rarely be unable to communicate amongst ourselves unless it is during the weekend. In which case, a grace period of one day at most will be respected before sending another message/reminder.
 
 ## Receiving feedback
 
-*How do you prefer to receive feedback? Each member must provide a sample sentence for how they would like to receive constructive feedback from their peers.*
+- **Aristedes:**  Blunt and feedback is what I personally prefer best. I’d rather my team’s concerns with me and my work be straight to the point in both intention and proposition. For example: *“Hey, the ‘so-and-so’ function is not working as intended or returning the proper value type. It should be returning ‘so-and-so’ instead, so please fix it as soon as possible.*
 
-*(If unsure, assume a hypothetical situation such as you have not completed your work in time or you have not replied to a message in a timely manner).*
-
-- A:
-- B:
+- **Tristan:** *“Hey, it would appear that you didn’t do ‘thing’/respond, what’s going on?”*
 
 ## In case of conflict
-
-*If a team member fails to communicate as described in this contract or does not respond to constructive feedback, what measures should the other teammate take?*
-
-*(One response for the whole team)*
+In the event that either teammate is breaking the terms of the contract, a teacher will be contacted, filled in on the present situation, and asked about what should be done next. In the unlikely event that said teacher also does not respond, things may be settled through trial-by-kombat.
