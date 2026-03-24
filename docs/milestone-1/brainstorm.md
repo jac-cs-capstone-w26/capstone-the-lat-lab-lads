@@ -6,7 +6,7 @@ Once you are finished brainstorming your project ideas, fill in each of the sect
 
 ## Purpose
 
-Write 2-4 sentences outlining the purpose of your overall project.
+The purpose of this project is to keep hikers safe when going up mountains. They will not have to worry about overheating, freezing, getting lost or losing oxygen via altitude sickness
 
 ## Subsystems
 
