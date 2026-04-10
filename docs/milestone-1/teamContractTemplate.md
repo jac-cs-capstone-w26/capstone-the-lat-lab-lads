@@ -28,7 +28,7 @@ At the very least, reaching the minimum requirements for this project is our fir
 
 - **Aristedes:**  Sub-system 1, concept design, system planning (basic flow of logic and feature functionalities), structural implementation (skeletons of functions and file system organization), code review/clean-up.
 
-- **Tristan:** Documentation, code implementation.
+- **Tristan:** Sub-system 2, documentation, code implementation.
 
 ## Frequency of Communication
 
